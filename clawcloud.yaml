@@ -1,3 +1,4 @@
-name: toolbox
-type: docker
-port: 8080
+Template:
+  Name: toolbox
+  Type: docker
+  Port: 8080
